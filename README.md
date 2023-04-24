@@ -49,7 +49,7 @@ Projeto criado no curso JavaScript na Web: Validação de Formulários e HTML5, 
 
 - Clone o repositório em um diretório de sua preferência
          
-      git clone https://github.com/gleisonfernandes/aluramidi.git
+      git clone https://github.com/gleisonfernandes/validacaoDoguito.git
 
 - Abra o diretório do projeto
 - Execute o arquivo index.html com o navegador.
