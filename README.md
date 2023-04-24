@@ -52,7 +52,7 @@ Projeto criado no curso JavaScript na Web: Validação de Formulários e HTML5, 
       git clone https://github.com/gleisonfernandes/validacaoDoguito.git
 
 - Abra o diretório do projeto
-- Execute o arquivo index.html com o navegador.
+- Execute o arquivo cadastro.html com o navegador.
 - Caso na execução aconteça o bloqueado por “CORS”, utilizando Visual Studio Code, instale uma extensão chamada “live server”. Após instalada essa extensão, no canto inferior direito vai ter uma opção chamada “Go live”. Clicando nessa opção, ele vai abrir uma nova aba no navegador automaticamente sem o bloqueio e com tudo funcionando normalmente.
 
 ---
